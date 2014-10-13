@@ -11,4 +11,5 @@ Requirements
 
 + Multiplayer over network (Pyro)
 + Have a functional/pretty GUI
++ Continious Integration using Travis CI
 + Must include one Monty Python reference for every 50 lines of code
